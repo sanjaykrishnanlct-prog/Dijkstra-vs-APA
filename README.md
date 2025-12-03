@@ -49,3 +49,7 @@ cd dijkstra_astar_project
 
 # Install dependencies
 pip install -r requirements.txt
+
+File Structure
+<img width="453" height="499" alt="image" src="https://github.com/user-attachments/assets/7123dd54-b63b-4a9a-b8aa-19a0caf26d7d" />
+
