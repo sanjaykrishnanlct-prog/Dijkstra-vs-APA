@@ -51,5 +51,22 @@ cd dijkstra_astar_project
 pip install -r requirements.txt
 
 File Structure
-<img width="453" height="499" alt="image" src="https://github.com/user-attachments/assets/7123dd54-b63b-4a9a-b8aa-19a0caf26d7d" />
 
+dijkstra_astar_project/
+│
+├── src/
+│   ├── __init__.py
+│   ├── dijkstra_astar.py
+│   ├── graph_generator.py
+│   └── priority_queue.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_algorithms.py
+│
+├── results/
+│   └── performance_results.csv
+│
+├── requirements.txt
+├── main.py
+└── README.md
